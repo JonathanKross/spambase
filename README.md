@@ -8,8 +8,6 @@ Use the Spambase dataset to classify spam.
 
 ### Learning Objectives
 
-After completing this assignment, you should understand:
-
 * Simple Bayesian analysis
 * The importance of separating training and test data
 * Create a Bayesian classifier
